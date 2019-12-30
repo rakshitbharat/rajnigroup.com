@@ -1,0 +1,60 @@
+@media (min-width: 626px) {
+
+}
+
+@media (max-width: 991px) {
+    .bentoneIntroductionImage {
+        display: table;
+        margin: auto;
+        width: 300px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .grid-content {
+        height: 210px;
+    }
+
+    td.grid-td {
+        height: 220px;
+    }
+
+    .grid-td-last {
+        height: 0px;
+    }
+}
+
+@media (max-width: 765px) {
+
+}
+
+@media (max-width: 765px) {
+    .contact-us h3 {
+        padding: 0 0 18px 0px;
+    }
+
+    .productBoxResponsive {
+        padding-bottom: 15px;
+    }
+
+    .client-box {
+        display: table;
+        margin: auto;
+    }
+
+    .client-content-box {
+        margin-bottom: 14px;
+    }
+}
+
+@media (max-width: 457px) {
+
+    .productList {
+        font-size: 9px;
+    }
+
+    .productBoxResponsive img {
+        width: 200px;
+    }
+
+}
